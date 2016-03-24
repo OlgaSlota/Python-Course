@@ -1,0 +1,6 @@
+required:
+
+nympy
+scipy
+matplotlib
+pillow
