@@ -9,5 +9,3 @@ napisz program umożliwiający poszukiwanie korelacji pomiędzy:
   * wskaźnikami ekonomicznymi (np kurs Bitcoina do rubla)
   
 Dołącz program main.py z przykładowymi obliczeniami.
-  
-Termin oddania zadania: **12.11.2015, 12:00**
