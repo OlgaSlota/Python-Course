@@ -10,7 +10,3 @@ Program powinien spełniać następujące warunki:
   * zawierać plik `main.py` wykorzystujący funkcjonalność zawartą w pakiecie
   * działać w ten sam sposób niezależnie od systemu operacyjnego
   * jeśli wykorzystuje jakieś biblioteki, to powinny być one łatwe do zainstalowania w środowisku wirtualnym
-
-Termin oddania zadania: **4.11.2015, 12:00**
-
-Trudnejsze problemy w C znajdą Państwo tutaj: http://www.underhanded-c.org/
