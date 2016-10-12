@@ -1,11 +1,11 @@
-# Zadanie 3
+# Homework 3
 
-Napisz program wspierający astro-ekonomistów ( https://en.wikipedia.org/wiki/Financial_astrology ).
+Implement astro-economy support program ( https://en.wikipedia.org/wiki/Financial_astrology ).
 
-Używając biblioteki pyephem oraz dowolnego źródła danych giełdowych 
-napisz program umożliwiający poszukiwanie korelacji pomiędzy:
+Use library pyephem oand any stock market data source. 
+Implement functionality of searching corelation between:
 
-  * wskaźnikami astronomicznymi (np faza księżyca)
-  * wskaźnikami ekonomicznymi (np kurs Bitcoina do rubla)
+  * astronomical rates ( such as lunar phases )
+  * economical rates (such as Bitcoina exchange rates)
   
-Dołącz program main.py z przykładowymi obliczeniami.
+Add your main.py with example calculations.
