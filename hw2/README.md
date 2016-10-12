@@ -1,12 +1,12 @@
-# Zadanie 2
+# Homework 2
 
-Zaimplementuj złośliwy program zawierający trudny do znalezienia błąd. 
-Kod programu powinien sprawiać wrażenie poprawnego.
-Wszelkie chwyty dozwolone (np nadpisanie funkcji `len`).
+Implement a tricky program containing a difficult to find bug. 
+Code should seem to be correct.
+No holds barred (overwriting `len` method).
 
-Program powinien spełniać następujące warunki:
+Program should fulfil the criteria:
 
-  * składać się z co najmniej jednego pakietu zawierającego co najmniej trzy moduły
-  * zawierać plik `main.py` wykorzystujący funkcjonalność zawartą w pakiecie
-  * działać w ten sam sposób niezależnie od systemu operacyjnego
-  * jeśli wykorzystuje jakieś biblioteki, to powinny być one łatwe do zainstalowania w środowisku wirtualnym
+  * consist of at least 1 package containig at least 3 modules
+  * contain `main.py` using package fuctionality
+  * be platform independent
+  * if any libraries required, it should be easy to install on virtual env
